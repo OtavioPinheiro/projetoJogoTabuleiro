@@ -29,3 +29,8 @@ A modelagem das classes segue como a imagem abaixo.
 <p>Para utilizar esse programa basta executá-lo com um compilador java.</p>
 O usuário deverá fornecer dois números inteiros, então o programa irá gerar a matriz 10x10 e buscará os elementos informados pelo usuário.
 O software também exibirá a matriz para que o usuário possa conferir os valores.
+
+![image](https://user-images.githubusercontent.com/49002375/112772384-db658880-9006-11eb-9ebd-861410fc1967.png)
+![image](https://user-images.githubusercontent.com/49002375/112772393-efa98580-9006-11eb-8a97-71e2703b4ecf.png)
+![image](https://user-images.githubusercontent.com/49002375/112772412-064fdc80-9007-11eb-958f-6383d54dd025.png)
+![image](https://user-images.githubusercontent.com/49002375/112772423-1798e900-9007-11eb-9094-7919b2802f24.png)
