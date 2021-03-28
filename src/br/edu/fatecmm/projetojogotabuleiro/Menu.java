@@ -27,9 +27,9 @@ public class Menu {
 
     private void regras() {
         System.out.println("********REGRAS**********");
-        System.out.println("1. Não é permitido escolher mais de um número por vez.");
+        System.out.println("1. Não é permitido escolher mais de um par de números por vez.");
         System.out.println("2. Só serão aceitos números e eles devem estar entre 1 e 100.");
-        System.out.println("3. Toda vez que um número for escolhido, o tabuleiro será revelado\n para que o jogador" +
+        System.out.println("3. Toda vez que um par de números for escolhido, o tabuleiro será revelado\n para que o jogador" +
             "possa conferir os números. \nSe o jogador quiser jogar novamente, novos números serão gerados.");
     }
 
