@@ -24,6 +24,9 @@ Esses elementos serão gerados automáticamente de forma aleatória.
 ## Modelagem.
 A modelagem das classes segue como a imagem abaixo.
 
+![image](https://user-images.githubusercontent.com/49002375/112778724-841de300-901b-11eb-9d99-1a3c0409fbee.png)
+![image](https://user-images.githubusercontent.com/49002375/112778753-93049580-901b-11eb-9642-ed8f2ae7eef2.png)
+![image](https://user-images.githubusercontent.com/49002375/112778793-b0396400-901b-11eb-8b47-76aaf9594c7a.png)
 
 ## Funcionamento
 <p>Para utilizar esse programa basta executá-lo com um compilador java.</p>
